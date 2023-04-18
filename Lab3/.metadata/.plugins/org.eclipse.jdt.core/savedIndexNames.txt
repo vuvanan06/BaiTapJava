@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Lenovo\Desktop\BaiTapJava\LAB3\.metadata\.plugins\org.eclipse.jdt.core
+2418052251.index
